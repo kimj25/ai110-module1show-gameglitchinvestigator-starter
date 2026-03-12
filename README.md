@@ -31,8 +31,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
-
+- [ ] [[alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/1g/5kkhrbfx67q90lx5131mk0sw0000gn/T/TemporaryItems/NSIRD_screencaptureui_y1MrdE/Screenshot%202026-03-11%20at%206.34.41%E2%80%AFPM.png?version%3D1773279291606)]
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
